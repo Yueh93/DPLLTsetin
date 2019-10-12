@@ -13,7 +13,7 @@ This fomula is valid
 
 (p → (q → r)) ↔ (¬r → (¬q → ¬p))  
 input:  
-((1)>((2)>(3)))~((-3)>((-2)>(-1)))#  
+((1)>((2)>(3))) ~ ((-3)>((-2)>(-1)))#  
 output:  
 Introduce a new variables for the formula:  
 4~-23  
